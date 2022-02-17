@@ -1,0 +1,40 @@
+﻿body {
+    background-image: url(https://www.bobst.com/fileadmin/user_upload/News/Articles/2019_articles/2808_EG_Impresores_02.jpg);
+}
+.txtCentrado{
+    text-align:center;
+}
+.imgCentrado{
+    margin-left: 0%;
+}
+.colorFondo1{
+    background-color:bisque;
+}
+.izquierda1 {
+    width: 48%;
+    margin-left:1%;
+    background-color: cadetblue;
+}
+.colorFondoAzul {
+    background-color: cadetblue;
+}
+.Derecha1 {
+    width: 48%;
+    margin-left:50%;
+    background-color: white;
+    margin-top:-40.7%;
+}
+.izquierda2 {
+    width: 48%;
+    margin-left: 1%;
+    background-color: white;
+}
+.Derecha2 {
+    width: 48%;
+    margin-left: 50%;
+    background-color: darkcyan;
+    margin-top: -40.7%;
+}
+.colorFondo2 {
+    background-image: url(https://actioncoach.com.mx/mariainesmoran/wp-content/uploads/sites/3/2016/01/colores-de-tinta-brillante-de-diseno-vectorial-splat_53-7804.jpg);
+}
