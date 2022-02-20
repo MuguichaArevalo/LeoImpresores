@@ -38,3 +38,16 @@
 .colorFondo2 {
     background-image: url(https://actioncoach.com.mx/mariainesmoran/wp-content/uploads/sites/3/2016/01/colores-de-tinta-brillante-de-diseno-vectorial-splat_53-7804.jpg);
 }
+.izquierdaFolletos {
+    margin-left: 1%;
+    background-color: cadetblue;
+    width: 48%;
+}
+.derechaFolletos {
+    margin-left: 1%;
+    background-color: cadetblue;
+    width: 48%;
+}
+.controlImg {
+    width: 10%;
+}

@@ -58,7 +58,7 @@
         <div class="txtCentrado mb-3 colorFondo1">
             <asp:Label class="h1" ID="Label1" runat="server" Text="Folletos"></asp:Label><br />
             <asp:Label class="h4" ID="Label2" runat="server" Text="Plasma Tus Ideas Como TU QUIERAS"></asp:Label><br />
-            <asp:LinkButton ID="LinkButton1" runat="server">Ver mas></asp:LinkButton><br />
+            <asp:LinkButton href="Folletos.aspx" ID="LinkButton1" runat="server">Ver mas></asp:LinkButton><br />
             <img class="w-25 " src="Resources/Imagenes/IMG_0087.JPEG" />
         </div>
 
